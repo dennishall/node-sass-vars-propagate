@@ -1,4 +1,4 @@
-# A simple example showing that SCSS vars propagate to imported files.
+# A simple example showing that SASS/SCSS vars propagate to imported files.
 
 `$ npm run node-sass-css`
   
