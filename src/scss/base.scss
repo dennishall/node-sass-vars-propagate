@@ -1,0 +1,7 @@
+body {
+  @if $isMB {
+    font-family: Arial, Helvetica, sans-serif;
+  } @else {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+}
